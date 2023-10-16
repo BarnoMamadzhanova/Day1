@@ -1,0 +1,22 @@
+
+
+.about-container {
+    margin: 2rem 8rem;
+    background-image: url(https://cdn.pixabay.com/photo/2023/09/30/14/17/ocean-8285752_1280.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.9;
+    // z-index: -1;
+    padding-bottom: 2rem;
+
+    h2 {
+        padding: 1.5rem 1.5rem;
+    }
+
+    p {
+        padding: 0 1.5rem;
+        font-size: larger;
+        color: rgb(209, 218, 218);
+    }
+}
